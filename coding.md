@@ -1,61 +1,70 @@
 
 # Documentation
 
-github > framapad > mediafire > codeproject > wikidot > google sites | godaddy
+`github > framapad > mediafire > codeproject > wikidot > google sites | godaddy`
 
-source code   Github
-documentation Github Pages
-change log    Framapad
-file hosting  MediaFire
-tutorials     CodeProject
-forum         CodeProject
-wiki          Wikidot
-website       Google Sites
-webhost       Godaddy
+Use           | Service              
+--------------|-------------
+source code   | Github
+documentation | Github Pages
+change log    | Framapad
+file hosting  | MediaFire
+tutorials     | CodeProject
+forum         | CodeProject
+wiki          | Wikidot
+website       | Google Sites
+webhost       | Godaddy
 
 # Software
 
 stackshare > codecanyon > filehippo
 
-stack Stackshare
-store Codecanyon
-site  Github Pages
-host  Filehippo
+Use   | Service
+------|-------------
+stack | Stackshare
+store | Codecanyon
+site  | Github Pages
+host  | Filehippo
 
 ## Environments 
 
-development Kamatera
-test        CodeAnywhere
-office      Chromebook
-production  Heroku
-backup      Heroku
+Use         | Service
+------------|------------
+development | Kamatera
+test        | CodeAnywhere
+office      | Chromebook
+production  | Heroku
+backup      | Heroku
 
 ## Tools
 
-cleardb
-convertio
-couchdrop
-img2go
-mongodb
-netapp
-stripe
+* cleardb
+* convertio
+* couchdrop
+* img2go
+* mongodb
+* netapp
+* stripe
 
 # Task
 
-asana > codetree > github issues
+`asana > codetree > github issues`
 
 # Coding
 
 ## No Abbreviations and Object (if possible)
 
+```
 projectDN
 projectDomainName
 ProjectDomainName
 ProjectDomain
 Project
+```
 
 or
 
+```
 project = {
     'domain': 'name'
 }
@@ -71,6 +80,7 @@ project.domain.name = {
     'form': ''
 }
 project.domain.name.code
+```
 
 ## Files and Folders as Task
 
@@ -107,11 +117,14 @@ line       | Instruction | 3
 
 Right
 
+```
 // ... code ...
 ... code ...
+```
 
 Wrong
 
+```
 // STEP 1: Load server
 
 //... code ...
@@ -119,9 +132,11 @@ Wrong
 // STEP 2: Build file
 
 ... code ...
+```
 
 ## Steps Are Checks and Written to Log File
 
+```
 console.log('STEP 1: Load server')
 
 //... code ...
@@ -129,6 +144,7 @@ console.log('STEP 1: Load server')
 console.log('STEP 2: Build file')
 
 ... code ...
+```
 
 ## Always Use A Change Log
 
