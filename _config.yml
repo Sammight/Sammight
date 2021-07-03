@@ -1,5 +1,9 @@
 theme: jekyll-theme-merlot
 
 layout: page
+title: "Sammight"
+permalink: /
+
+layout: page
 title: "Coding"
-permalink: /coding/
+permalink: /coding
