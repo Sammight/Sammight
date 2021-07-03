@@ -1,70 +1,101 @@
-
 # Documentation
 
-`github > framapad > mediafire > codeproject > wikidot > google sites | godaddy`
+github > framapad > mediafire > codeproject > wikidot > google sites | godaddy
 
-Use           | Service              
---------------|-------------
-source code   | Github
-documentation | Github Pages
-change log    | Framapad
-file hosting  | MediaFire
-tutorials     | CodeProject
-forum         | CodeProject
-wiki          | Wikidot
-website       | Google Sites
-webhost       | Godaddy
+source code   Github
+documentation Github Pages
+change log    Framapad
+file hosting  MediaFire
+tutorials     CodeProject
+forum         CodeProject
+wiki          Wikidot
+website       Google Sites
+webhost       Godaddy
 
 # Software
 
-stackshare > codecanyon > filehippo
+`stackshare > codecanyon > filehippo`
 
-Use   | Service
-------|-------------
-stack | Stackshare
-store | Codecanyon
-site  | Github Pages
-host  | Filehippo
+stack Stackshare
+store Codecanyon
+site  Github Pages
+host  Filehippo
 
 ## Environments 
 
-Use         | Service
-------------|------------
-development | Kamatera
-test        | CodeAnywhere
-office      | Chromebook
-production  | Heroku
-backup      | Heroku
+development Kamatera
+test        CodeAnywhere
+office      Chromebook
+production  Heroku
+backup      Heroku
 
-## Tools
+## Storage
 
-* cleardb
-* convertio
-* couchdrop
-* img2go
-* mongodb
-* netapp
-* stripe
+OneDrive > Convertio > NetApp - Couchdrop > Github > MongoDB (NoSQL) / ClearDB (SQL) > Stripe
+
+file        OneDrive
+cloud share NetApp
+file share  Couchdrop
+source code GitHub
+programming MongoDB
+information ClearDB
+conversion  Convertio
+payment     Stripe
+
+## Languages
+
+Language   | Ends      | Purpose
+-----------|-----------|----------
+browser    | client    | explore - google
+html       | front     | structure
+xml        | front     | rule
+latex      | front     | document
+css        | front     | style
+sql        | user      | query
+perl       | user      | search
+js         | user      | script
+clisp      | back      | think (lisp) - nasa
+ts         | back      | program (c#) - microsoft
+c#         | back      | hack - microsoft
+php        | server    | serve
+node       | server    | run - google
+powershell | shell     | configure - microsoft
+platform   | system    | operate - microsoft
+z80        | processor | assemble
+binary     | computer  | act
+physics    | universe  | interact
+
+Name       | Type      | Use
+-----------|-----------|-----------------
+bootstrap  | framework | webpages
+angular    | framework | webserver
+xna        | framework | video
+ionic      | framework | web applications
+jquery     | library   | webbrowser
+vx         | sdk       | virus writings
 
 # Task
 
-`asana > codetree > github issues`
+stackshare > asana > codetree > github issues > stockpile
+
+software Stackshare
+function Asana
+project  Codetree
+task     Github Issues
+items    Stockpile
 
 # Coding
 
 ## No Abbreviations and Object (if possible)
 
-```
 projectDN
 projectDomainName
 ProjectDomainName
 ProjectDomain
 Project
-```
 
 or
 
-```
 project = {
     'domain': 'name'
 }
@@ -80,7 +111,6 @@ project.domain.name = {
     'form': ''
 }
 project.domain.name.code
-```
 
 ## Files and Folders as Task
 
@@ -117,14 +147,11 @@ line       | Instruction | 3
 
 Right
 
-```
 // ... code ...
 ... code ...
-```
 
 Wrong
 
-```
 // STEP 1: Load server
 
 //... code ...
@@ -132,11 +159,9 @@ Wrong
 // STEP 2: Build file
 
 ... code ...
-```
 
 ## Steps Are Checks and Written to Log File
 
-```
 console.log('STEP 1: Load server')
 
 //... code ...
@@ -144,9 +169,8 @@ console.log('STEP 1: Load server')
 console.log('STEP 2: Build file')
 
 ... code ...
-```
 
 ## Always Use A Change Log
 
-* One text file for the month
-* mmddyyyy (status)description=commit message  
+One text file for the month
+mmddyyyy (status)description=commit message 
