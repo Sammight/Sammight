@@ -1,46 +1,54 @@
 # Documentation
 
-github > framapad > mediafire > codeproject > wikidot > google sites | godaddy
+`github > framapad > mediafire > codeproject > wikidot > google sites | godaddy`
 
-source code   Github
-documentation Github Pages
-change log    Framapad
-file hosting  MediaFire
-tutorials     CodeProject
-forum         CodeProject
-wiki          Wikidot
-website       Google Sites
-webhost       Godaddy
+Use           | Service
+--------------|-------------
+source code   | Github
+documentation | Github Pages
+change log    | Framapad
+file hosting  | MediaFire
+tutorials     | CodeProject
+forum         | CodeProject
+wiki          | Wikidot
+website       | Google Sites
+webhost       | Godaddy
 
 # Software
 
 `stackshare > codecanyon > filehippo`
 
-stack Stackshare
-store Codecanyon
-site  Github Pages
-host  Filehippo
+Use   | Service
+------|-------------
+stack | Stackshare
+store | Codecanyon
+site  | Github Pages
+host  | Filehippo
 
 ## Environments 
 
-development Kamatera
-test        CodeAnywhere
-office      Chromebook
-production  Heroku
-backup      Heroku
+Stage       | Server
+------------|-------------
+office      | Chromebook
+development | Kamatera
+test        | CodeAnywhere
+production  | Heroku
+backup      | Heroku
 
 ## Storage
 
-OneDrive > Convertio > NetApp - Couchdrop > Github > MongoDB (NoSQL) / ClearDB (SQL) > Stripe
+`OneDrive > Convertio > NetApp - Couchdrop > Github > MongoDB (NoSQL) / ClearDB (SQL) > Stripe`
 
-file        OneDrive
-cloud share NetApp
-file share  Couchdrop
-source code GitHub
-programming MongoDB
-information ClearDB
-conversion  Convertio
-payment     Stripe
+Use         | Service
+------------|-----------
+file        | OneDrive
+cloud share | NetApp
+file share  | Couchdrop
+source code | GitHub
+programming | MongoDB
+information | ClearDB
+conversion  | Convertio
+payment     | Stripe
 
 ## Languages
 
@@ -76,26 +84,31 @@ vx         | sdk       | virus writings
 
 # Task
 
-stackshare > asana > codetree > github issues > stockpile
+`stackshare > asana > codetree > github issues > stockpile`
 
-software Stackshare
-function Asana
-project  Codetree
-task     Github Issues
-items    Stockpile
+Use      | Service
+---------|--------------
+software | Stackshare
+function | Asana
+project  | Codetree
+task     | Github Issues
+items    | Stockpile
 
 # Coding
 
 ## No Abbreviations and Object (if possible)
 
+```
 projectDN
 projectDomainName
 ProjectDomainName
 ProjectDomain
 Project
+```
 
 or
 
+```
 project = {
     'domain': 'name'
 }
@@ -111,6 +124,7 @@ project.domain.name = {
     'form': ''
 }
 project.domain.name.code
+```
 
 ## Files and Folders as Task
 
@@ -147,11 +161,14 @@ line       | Instruction | 3
 
 Right
 
+```
 // ... code ...
 ... code ...
+```
 
 Wrong
 
+```
 // STEP 1: Load server
 
 //... code ...
@@ -159,9 +176,11 @@ Wrong
 // STEP 2: Build file
 
 ... code ...
+```
 
 ## Steps Are Checks and Written to Log File
 
+```
 console.log('STEP 1: Load server')
 
 //... code ...
@@ -169,6 +188,7 @@ console.log('STEP 1: Load server')
 console.log('STEP 2: Build file')
 
 ... code ...
+```
 
 ## Always Use A Change Log
 
