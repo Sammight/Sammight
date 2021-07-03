@@ -1,4 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "About"
 permalink: /about/
 
+About
