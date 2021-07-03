@@ -1,4 +1,8 @@
- # Documentation
+layout: page
+title: “Coding”
+permalink: /coding/
+
+# Documentation
 
 github > framapad > mediafire > codeproject > wikidot > google sites | godaddy
 
