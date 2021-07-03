@@ -192,5 +192,5 @@ console.log('STEP 2: Build file')
 
 ## Always Use A Change Log
 
-One text file for the month
-mmddyyyy (status)description=commit message 
+* One text file for the month
+* mmddyyyy (status)description=commit message 
