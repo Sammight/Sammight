@@ -94,8 +94,6 @@ project  | Codetree
 task     | Github Issues
 items    | Stockpile
 
-# Coding
-
 ## No Abbreviations and Object (if possible)
 
 ```
@@ -157,6 +155,7 @@ line       | Instruction | 3
         * split.ts         
         * process.ts
 
+# Source
 ## Only Use Comments for Development
 
 Right
