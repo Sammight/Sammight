@@ -1,12 +1,11 @@
 # Documentation
 
-`github > framapad > mediafire > codeproject > wikidot > google sites | godaddy`
+`github > mediafire > codeproject > wikidot > google sites | godaddy`
 
 Use           | Service
 --------------|-------------
 source code   | Github
 documentation | Github Pages
-change log    | Framapad
 file hosting  | MediaFire
 tutorials     | CodeProject
 forum         | CodeProject
@@ -86,13 +85,14 @@ vx         | sdk       | virus writings
 
 `stackshare > asana > codetree > github issues > stockpile`
 
-Use      | Service
----------|--------------
-software | Stackshare
-function | Asana
-project  | Codetree
-task     | Github Issues
-items    | Stockpile
+Use        | Service
+-----------|--------------
+change log | Framapad 
+software   | Stackshare
+function   | Asana
+project    | Codetree
+task       | Github Issues
+items      | Stockpile
 
 ## No Abbreviations and Object (if possible)
 
