@@ -224,7 +224,7 @@ Type        | Purpose
 .config     | Configuration
 .log        | Log
 .backup     | Backup
-.<language> | Code
+.(language) | Code
 
 
 
