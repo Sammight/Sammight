@@ -208,7 +208,7 @@ program.c
 //TODO: Build array to load file
 ```
 
-program.c.log
+program.c.backup
 ```
 array=""
 while getopt option
