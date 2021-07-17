@@ -218,10 +218,13 @@ done
 ```
 
 ### Common File Extensions
-.config
-.log
-.backup
-.<language>
+
+Type        | Purpose
+------------|--------------------------------------
+.config     | Configuration
+.log        | Log
+.backup     | Backup
+.<language> | Code
 
 
 
