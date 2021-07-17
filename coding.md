@@ -191,29 +191,33 @@ console.log('STEP 2: Build file')
 
 ## Development Comment
 
-IMPROVE Approach to observe to remove confusion
-TODO    Task waiting to be completed
-REDO    Code temporarily in place to keep running
-REVIEW  Advanced code to reduce for current standard
-BUG     Conditions execution breaks unintendenly breaks on
-MEMORY  Mark of an occurrance of memory leaks
-LEGACY  Code that would break on upgrade
+Type   | Purpose
+-------|==================================================
+IMPROVE| Approach to observe to remove confusion
+TODO   | Task waiting to be completed
+REDO   | Code temporarily in place to keep running
+REVIEW | Advanced code to reduce for current standard
+BUG    | Conditions execution breaks unintendenly breaks on
+MEMORY | Mark of an occurrance of memory leaks
+LEGACY | Code that would break on upgrade
 
 ### Cut code to another file, not block comment
 
 program.c
+```
 //TODO: Build array to load file
+```
 
 program.c.log
+```
 array=""
 while getopt option
 do
  echo "hello"
 done
-
+```
 
 ### Common File Extensions
-
 .config
 .log
 .backup
