@@ -192,7 +192,7 @@ console.log('STEP 2: Build file')
 ## Development Comment
 
 Type   | Purpose
--------|==================================================
+-------|---------------------------------------------------
 IMPROVE| Approach to observe to remove confusion
 TODO   | Task waiting to be completed
 REDO   | Code temporarily in place to keep running
