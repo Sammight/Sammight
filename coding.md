@@ -33,6 +33,7 @@ development | Kamatera
 test        | CodeAnywhere
 production  | Heroku
 backup      | Heroku
+Gitpod
 
 ## Storage
 
@@ -224,6 +225,7 @@ Type        | Purpose
 .config     | Configuration
 .log        | Log
 .backup     | Backup
+.tmp        | Temporary
 .(language) | Code
 
 
