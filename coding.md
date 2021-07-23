@@ -32,9 +32,6 @@ office      | Chromebook
 development | Kamatera
 test        | CodeAnywhere
 production  | Heroku
-backup      | Heroku
-
-Gitpod
 
 ## Storage
 
