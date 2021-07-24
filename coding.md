@@ -8,14 +8,14 @@ source code   | Github
 documentation | Github Pages
 file hosting  | MediaFire
 tutorials     | CodeProject
-forum         | CodeProject
+forum         | Microsoft Developer Network
 wiki          | Wikidot
 website       | Google Sites
-webhost       | Godaddy
+webhost       | GoDaddy
 
 # Software
 
-`stackshare > codecanyon > filehippo`
+`github pages > stackshare > codecanyon > filehippo`
 
 Use   | Service
 ------|-------------
@@ -35,7 +35,7 @@ production  | Heroku
 
 ## Storage
 
-`OneDrive > Convertio > NetApp - Couchdrop > Github > MongoDB (NoSQL) / ClearDB (SQL) > Stripe`
+`OneDrive > ? > NetApp > Couchdrop > Github > MongoDB (NoSQL) > ClearDB (SQL) > Stripe`
 
 Use         | Service
 ------------|-----------
@@ -45,7 +45,7 @@ file share  | Couchdrop
 source code | GitHub
 programming | MongoDB
 information | ClearDB
-conversion  | Convertio
+conversion  | 
 payment     | Stripe
 
 ## Languages
@@ -82,7 +82,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-`stackshare > asana > codetree > github issues > stockpile`
+framapad >`stackshare > asana > codetree > github issues > stockpile`
 
 Use        | Service
 -----------|--------------
@@ -190,24 +190,34 @@ console.log('STEP 2: Build file')
 
 ## Development Comment
 
-Type   | Purpose
--------|---------------------------------------------------
-IMPROVE| Approach to observe to remove confusion
-TODO   | Task waiting to be completed
-REDO   | Code temporarily in place to keep running
-REVIEW | Advanced code to reduce for current standard
-BUG    | Conditions execution breaks unintendenly breaks on
-MEMORY | Mark of an occurrance of memory leaks
-LEGACY | Code that would break on upgrade
+Type    | Purpose
+--------|---------------------------------------------------
+IMPROVE | Approach to observe to remove confusion
+TODO    | Task waiting to be completed
+REDO    | Code temporarily in place to keep running
+REVIEW  | Advanced code to reduce for current standard
+BUG     | Conditions execution breaks unintendenly breaks on
+MEMORY  | Mark of an occurrance of memory leaks
+LEGACY  | Code that would break on upgrade
 
 ### Cut code to another file, not block comment
 
-program.c
+Wrong
+
+program.sh
 ```
 //TODO: Build array to load file
+
+#array=""
+#while getopt option
+#do
+# echo "hello"
+#done
 ```
 
-program.c.backup
+Right
+
+program.sh.backup
 ```
 array=""
 while getopt option
@@ -229,6 +239,6 @@ Type        | Purpose
 
 
 ## Always Use A Change Log
-
-* One text file for the month
+* One log file for the month
 * mmddyyyy (status)description=commit message 
+* [abakasam-july2021-change.log](https://github.com/Sammight/Sammight/files/6872872/abakasam-july2021-change.log)
