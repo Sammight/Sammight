@@ -1,8 +1,8 @@
----
+```
 layout: page
 title: "Code Conventions"
 permalink: /
----
+```
 
 ## Welcome to GitHub Pages
 
