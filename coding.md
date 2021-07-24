@@ -1,9 +1,3 @@
----
-layout: page
-title: "Coding"
-permalink: /coding
----
-
 # Documentation
 
 `github > mediafire > codeproject > wikidot > google sites | godaddy`
