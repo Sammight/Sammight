@@ -82,7 +82,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-framapad >`stackshare > asana > codetree > github issues > stockpile`
+`framapad > stackshare > asana > codetree > github issues > stockpile`
 
 Use        | Service
 -----------|--------------
