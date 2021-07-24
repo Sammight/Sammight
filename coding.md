@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog
+title: "Coding"
+permalink: /coding
 ---
 
 # Documentation
