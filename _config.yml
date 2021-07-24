@@ -1,9 +1,9 @@
 theme: jekyll-theme-merlot
 
-layout: page
-title: "Code Conventions"
-permalink: /
-
-layout: page
-title: "Coding"
-permalink: /coding
+defaults:
+  -
+    scope:
+      path: "/"
+    values:
+      layout: "page"
+      title: "Code Conventions"
