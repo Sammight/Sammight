@@ -35,7 +35,7 @@ production  | Heroku
 
 ## Storage
 
-`OneDrive > ? > NetApp > Couchdrop > Github > MongoDB (NoSQL) > ClearDB (SQL) > Stripe`
+`OneDrive > ? > NetApp > Couchdrop > Github > MongoDB (NoSQL) > Mysql (SQL) > Stripe`
 
 Use         | Service
 ------------|-----------
@@ -43,7 +43,7 @@ file        | OneDrive
 cloud share | NetApp
 file share  | Couchdrop
 source code | GitHub
-programming | MongoDB
+programming | Atlus
 information | ClearDB
 conversion  | 
 payment     | Stripe
