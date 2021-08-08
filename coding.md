@@ -125,15 +125,15 @@ project.domain.name.code
 
 ## Files and Folders as Task
 
-Data       | Title       | Depth
------------|-------------|--------
-executable | Function    | 0
-folders    | Project     | 1
-folder     | Assignment  | 2
-file       | Task        | 3
-head       | Note        | 3
-block      | Step        | 3
-line       | Instruction | 3
+Data       | Title                  | Depth
+-----------|------------------------|--------
+executable | Function               | 0
+folders    | Project                | 1
+folder     | Assignment             | 2
+file       | Task / Object          | 3
+head       | Note                   | 3
+block      | Step / Variable        | 3
+line       | Instruction / Function | 3
 
 ### Example
 
