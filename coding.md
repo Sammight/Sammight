@@ -188,6 +188,17 @@ console.log('STEP 2: Build file')
 ... code ...
 ```
 
+## Optional Markdowns
+
+Name      | Use
+----------|----------------------------------------------
+README    | How to use (required)
+INSTALL   | How to install
+COPYING   | How to copy
+LICENSE   | What rights
+STANDARDS | Specific coding rules
+REMARKS   | Generated file with developer comments listed
+
 ## Development Comment
 
 Type    | Purpose
