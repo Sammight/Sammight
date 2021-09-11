@@ -276,6 +276,8 @@ NEWS    |
 INSTALL |
 STEP    | Output to terminal or log file to track execution
 
+![IMG_20210911_122152](https://user-images.githubusercontent.com/58202540/132956049-d29700e3-2ee4-40a4-8e33-1b788d4b6428.jpg)
+
 ## Cut Code To Backup File, Avoid Block Comment
 
 Wrong
