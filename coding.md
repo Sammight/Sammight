@@ -154,25 +154,43 @@ line       | Instruction / Function | 3
 
 ### Example
 
-Object                 |  Type
------------------------|----------------
-* card-match/          |  FUNCTION
-  * html/              |  PROJECT
-    * index.html       |  TASK   
-  * css/               |  PROJECT
-    * style.css        |  TASK
-  * js/                |  PROJECT
-    * app.js           |  TASK
-    * flashcards/      |  ASSIGNMENT       
-      * deal.js        |  TASK
-      * cards.js       |  TASK
-    * configuration.js |  TASK
-  * ts/                |  PROJECT
-    * main.ts          |  TASK
-      * convert/       |  ASSIGNMENT
-        * split.ts     |  TASK
-        * process.ts   |  TASK
+Object                |  Type
+----------------------|----------------
+ card-match/          |  FUNCTION
+   html/              |  PROJECT
+     index.html       |  TASK   
+   css/               |  PROJECT
+     style.css        |  TASK
+   js/                |  PROJECT
+     app.js           |  TASK
+     flashcards/      |  ASSIGNMENT       
+       deal.js        |  TASK
+       cards.js       |  TASK
+     configuration.js |  TASK
+   ts/                |  PROJECT
+     main.ts          |  TASK
+       convert/       |  ASSIGNMENT
+         split.ts     |  TASK
+         process.ts   |  TASK
   * card-slide/        |  PROJECT
+
+* card-match/
+  * html/              
+    * index.html          
+  * css/               
+    * style.css        
+  * js/                
+    * app.js           
+    * flashcards/        
+      * deal.js        
+      * cards.js       
+    * configuration.js 
+  * ts/                
+    * main.ts          
+      * convert/       
+        * split.ts     
+        * process.ts   
+  * card-slide/        
 
 ### Common File Extensions
 
@@ -294,10 +312,10 @@ do
 done
 ```
 
-folder/README.md
-folder/folder/program.sh
-folder/folder/program.sh.backup
-folder/folder/README.md
+* folder/README.md
+* folder/folder/program.sh
+* folder/folder/program.sh.backup
+* folder/folder/README.md
 ```
 get option fixes 0.4.2 on line 7
 ```
