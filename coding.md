@@ -321,3 +321,26 @@ done
 ```
 get option fixes 0.4.2 on line 7
 ```
+
+## Always Use A Change Log
+* TOOLS, new tools to be added to stockpile and stackshare
+* STATUS, task to be added to GitHub Issues
+* Task is also the git commit message
+
+```
+05182021
+=Copy Tools To New Change Log
+=Dealing With Repeating Task or Events
+=Site With Projects
+=Recording Applications to Ensure Use
+=Not Woking Enough
+```
+
+```
+mmddyyyy
+status(commit message)
+status(commit message)
+status(commit message)
+status(commit message)
+status(commit message)
+```
