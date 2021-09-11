@@ -154,25 +154,25 @@ line       | Instruction / Function | 3
 
 ### Example
 
-Object                |  Type
-----------------------|----------------
- card-match/          |  FUNCTION
-   html/              |  PROJECT
-     index.html       |  TASK   
-   css/               |  PROJECT
-     style.css        |  TASK
-   js/                |  PROJECT
-     app.js           |  TASK
-     flashcards/      |  ASSIGNMENT       
-       deal.js        |  TASK
-       cards.js       |  TASK
-     configuration.js |  TASK
-   ts/                |  PROJECT
-     main.ts          |  TASK
-       convert/       |  ASSIGNMENT
-         split.ts     |  TASK
-         process.ts   |  TASK
-  * card-slide/        |  PROJECT
+Object            |  Type
+------------------|----------------
+card-match/       |  FUNCTION
+html/             |  PROJECT
+index.html        |  TASK   
+css/              |  PROJECT
+style.css         |  TASK
+js/               |  PROJECT
+app.js            |  TASK
+flashcards/       |  ASSIGNMENT       
+deal.js           |  TASK
+cards.js          |  TASK
+configuration.js  |  TASK
+ts/               |  PROJECT
+main.ts           |  TASK
+convert/          |  ASSIGNMENT
+split.ts          |  TASK
+process.ts        |  TASK
+card-slide/       |  PROJECT
 
 * card-match/
   * html/              
