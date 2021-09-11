@@ -1,12 +1,12 @@
 # Documentation
 
-`github > mediafire > codeproject > wikidot > google sites | godaddy`
+`github > mediafire > codeproject > wikidot > microsoft developer network > google sites | godaddy`
 
 Use           | Service
 --------------|-------------
 source code   | Github
 documentation | Github Pages
-file hosting  | MediaFire
+filehost      | MediaFire
 tutorials     | CodeProject
 forum         | Microsoft Developer Network
 wiki          | Wikidot
@@ -35,18 +35,18 @@ production  | Heroku
 
 ## Storage
 
-`OneDrive > ? > NetApp > Couchdrop > Github > MongoDB (NoSQL) > Mysql (SQL) > Stripe`
+`OneDrive > Convertio > NetApp > Couchdrop > Github > NoSQL / SQL > Stripe`
 
-Use         | Service
-------------|-----------
-file        | OneDrive
-cloud share | NetApp
-file share  | Couchdrop
-source code | GitHub
-programming | Atlus
-information | ClearDB
-conversion  | 
-payment     | Stripe
+Use           | Service
+--------------|-----------
+cloud storage | OneDrive
+cloud share   | NetApp
+file share    | Couchdrop
+source code   | GitHub
+programming   | MongoDB Atlus (NoSQL)
+information   | ClearDB (SQL)
+conversion    | Convertio
+payment       | Stripe
 
 ## Languages
 
@@ -93,14 +93,31 @@ project    | Codetree
 task       | Github Issues
 items      | Stockpile
 
+## Environment and Placeholder Variables
+
+Syntax                   | Example         | Name
+-------------------------|-----------------|---------------------- 
+variable                 | first           | variable
+object.word.word         | first.car.color | object
+variable_word_word       | FIRST_CAR_COLOR | environment variable
+variable(Letter, Number) | firstA          | placeholder variable
+
+* Object names removed need for camel case
+* Did not chagne environment variable naming
+* Placeholder variable for a parameter to argument
+
 ## No Abbreviations and Object (if possible)
 
 ```
+1 Variable
 projectDN
+projectDomainN
 projectDomainName
-ProjectDomainName
-ProjectDomain
+
+3 Variables
 Project
+ProjectDomain
+ProjectDomainName
 ```
 
 or
@@ -120,7 +137,7 @@ project.domain.name = {
     'location': '',
     'form': ''
 }
-project.domain.name.code
+project.domain.name.code = ''
 ```
 
 ## Files and Folders as Task
@@ -137,24 +154,38 @@ line       | Instruction / Function | 3
 
 ### Example
 
-* card-match/ (FUNCTION)
-  * html/ (PROJECT)
-    * index.html (TASK)     
-  * css/               
-    * style.css         
-  * js/                
-    * app.js            
-    * flashcards/ (ASSIGNMENT)       
-      * deal.js (TASK)
-      * cards.js         
-    * configuration.js 
-  * ts/                
-    * main.ts              
-      * convert/          
-        * split.ts         
-        * process.ts
+Object                 |  Type
+-----------------------|----------------
+* card-match/          |  FUNCTION
+  * html/              |  PROJECT
+    * index.html       |  TASK   
+  * css/               |  PROJECT
+    * style.css        |  TASK
+  * js/                |  PROJECT
+    * app.js           |  TASK
+    * flashcards/      |  ASSIGNMENT       
+      * deal.js        |  TASK
+      * cards.js       |  TASK
+    * configuration.js |  TASK
+  * ts/                |  PROJECT
+    * main.ts          |  TASK
+      * convert/       |  ASSIGNMENT
+        * split.ts     |  TASK
+        * process.ts   |  TASK
+  * card-slide/        |  PROJECT
+
+### Common File Extensions
+
+Type        | Purpose
+------------|--------------------------------------
+.config     | Configuration
+.log        | Log
+.backup     | Backup
+.tmp        | Temporary
+.(language) | Code
 
 # Source
+
 ## Only Use Comments for Development
 
 Right
@@ -178,6 +209,18 @@ Wrong
 
 ## Steps Are Checks and Written to Log File
 
+Wrong
+```
+// STEP 1: Load server
+
+//... code ...
+
+// STEP 2: Build file
+
+... code ...
+```
+
+Right
 ```
 console.log('STEP 1: Load server')
 
@@ -192,12 +235,12 @@ console.log('STEP 2: Build file')
 
 Name      | Use
 ----------|----------------------------------------------
-README    | How to use (required)
+README    | How to use
 INSTALL   | How to install
 COPYING   | How to copy
 LICENSE   | What rights
 STANDARDS | Specific coding rules
-REMARKS   | Generated file with developer comments listed
+NEWS      | Release history and top five features
 
 ## Development Comment
 
@@ -210,23 +253,37 @@ REVIEW  | Advanced code to reduce for current standard
 BUG     | Conditions execution breaks unintendenly breaks on
 MEMORY  | Mark of an occurrance of memory leaks
 LEGACY  | Code that would break on upgrade
+README  |
+NEWS    |
+INSTALL |
+STEP    | Output to terminal or log file to track execution
 
-### Cut code to another file, not block comment
+## Cut Code To Backup File, Avoid Block Comment
 
 Wrong
 
 program.sh
 ```
-//TODO: Build array to load file
+# TODO: Build array to load file
 
+# Create server and start connection
 #array=""
-#while getopt option
+#while getopt option // Fixes bug from 0.4.2
 #do
 # echo "hello"
 #done
+
+echo "done"
 ```
 
 Right
+
+program.sh
+```
+# TODO: Build array to load file
+
+echo "done"
+```
 
 program.sh.backup
 ```
@@ -237,19 +294,10 @@ do
 done
 ```
 
-### Common File Extensions
-
-Type        | Purpose
-------------|--------------------------------------
-.config     | Configuration
-.log        | Log
-.backup     | Backup
-.tmp        | Temporary
-.(language) | Code
-
-
-
-## Always Use A Change Log
-* One log file for the month
-* mmddyyyy (status)description=commit message 
-* [abakasam-july2021-change.log](https://github.com/Sammight/Sammight/files/6872872/abakasam-july2021-change.log)
+folder/README.md
+folder/folder/program.sh
+folder/folder/program.sh.backup
+folder/folder/README.md
+```
+get option fixes 0.4.2 on line 7
+```
