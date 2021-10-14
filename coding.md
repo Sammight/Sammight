@@ -1,6 +1,6 @@
 # Documentation
 
-`github > mediafire > codeproject > wikidot > microsoft developer network > google sites | godaddy`
+markdown(s) > mediafire > codeproject > wikidot > msdn
 
 Use           | Service
 --------------|-------------
@@ -15,7 +15,7 @@ webhost       | GoDaddy
 
 # Software
 
-`github pages > stackshare > codecanyon > filehippo`
+stackshare > github pages (docusaurus) > filehippo
 
 Use   | Service
 ------|-------------
@@ -33,9 +33,9 @@ development | Kamatera
 test        | CodeAnywhere
 production  | Heroku
 
-## Storage
+# Storage
 
-`OneDrive > Convertio > NetApp > Couchdrop > Github > NoSQL / SQL > Stripe`
+onedrive > github > nosql / sql > stripe
 
 Use           | Service
 --------------|-----------
@@ -82,7 +82,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-`framapad > stackshare > asana > codetree > github issues > stockpile`
+codetree (github issues) > framapad > (Excel spreadsheet): Siban Inventory
 
 Use        | Service
 -----------|--------------
@@ -92,6 +92,8 @@ function   | Asana
 project    | Codetree
 task       | Github Issues
 items      | Stockpile
+
+[Siban Inventory.xlsx](https://github.com/Sammight/Sammight/files/7348613/Siban.Inventory.xlsx)
 
 ![0210918_113814](https://user-images.githubusercontent.com/58202540/133896183-ef512fca-c334-4f8b-9903-2830f34c30af.jpg)
 
