@@ -1,6 +1,6 @@
 # Documentation
 
-markdown(s) > mediafire > codeproject > wikidot > msdn
+`markdown(s) > mediafire > codeproject > wikidot > msdn`
 
 Use           | Service
 --------------|-------------
@@ -15,7 +15,7 @@ webhost       | GoDaddy
 
 # Software
 
-stackshare > github pages (docusaurus) > filehippo
+`stackshare > github pages (docusaurus) > filehippo`
 
 Use   | Service
 ------|-------------
@@ -35,7 +35,7 @@ production  | Heroku
 
 # Storage
 
-onedrive > github > nosql / sql > stripe
+`onedrive > github > nosql / sql > stripe`
 
 Use           | Service
 --------------|-----------
@@ -82,7 +82,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-codetree (github issues) > framapad > (Excel spreadsheet): Siban Inventory
+`codetree (github issues) > framapad > (Excel spreadsheet): Siban Inventory`
 
 Use        | Service
 -----------|--------------
