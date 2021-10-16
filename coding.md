@@ -82,7 +82,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-`codetree (github issues) > framapad > (Excel spreadsheet): Siban Inventory`
+`codetree > github issues > (spreadsheet)`
 
 Use        | Service
 -----------|--------------
@@ -90,7 +90,7 @@ change log | Framapad
 software   | Stackshare
 function   | Asana
 project    | Codetree
-task       | Github Issues
+log        | Github Issues
 items      | Stockpile
 
 [Siban Inventory.xlsx](https://github.com/Sammight/Sammight/files/7348613/Siban.Inventory.xlsx)
