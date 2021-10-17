@@ -1,16 +1,13 @@
 # Documentation
 
-`markdown(s) > mediafire > codeproject > wikidot > msdn`
+`(markdowns) > mediafire > codeproject > wikidot > msdn`
 
 Use           | Service
 --------------|-------------
-source code   | Github
-documentation | Github Pages
 filehost      | MediaFire
 tutorials     | CodeProject
 forum         | Microsoft Developer Network
 wiki          | Wikidot
-website       | Google Sites
 webhost       | GoDaddy
 
 # Software
@@ -73,11 +70,11 @@ physics    | universe  | interact
 
 Name       | Type      | Use
 -----------|-----------|-----------------
-bootstrap  | framework | webpages
-angular    | framework | webserver
+bootstrap  | framework | web pages
+angular    | framework | web server
 xna        | framework | video
 ionic      | framework | web applications
-jquery     | library   | webbrowser
+jquery     | library   | web browser
 vx         | sdk       | virus writings
 
 # Task
