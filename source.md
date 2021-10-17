@@ -142,3 +142,113 @@ status(commit message)
 [abakasam-052021-change.log](https://github.com/Sammight/Sammight/files/7148269/abakasam-052021-change.log)
 
 [(simple)abakasam-102021-change.log](https://github.com/Sammight/Sammight/files/7360621/simple.abakasam-102021-change.log)
+
+
+## Environment and Placeholder Variables
+
+Syntax                   | Example         | Name
+-------------------------|-----------------|---------------------- 
+variable                 | first           | variable
+object.word.word         | first.car.color | object
+variable_word_word       | FIRST_CAR_COLOR | environment variable
+variable(Letter, Number) | firstA          | placeholder variable
+
+* Object names removed need for camel case
+* Did not chagne environment variable naming
+* Placeholder variable for a parameter to argument
+
+## No Abbreviations and Object (if possible)
+
+```
+1 Variable
+projectDN
+projectDomainN
+projectDomainName
+
+3 Variables
+Project
+ProjectDomain
+ProjectDomainName
+```
+
+or
+
+```
+project = {
+    'domain': 'name'
+}
+project = { 'domain': }
+project.domain = {
+    'name': '',
+    'server': '',
+    'ip': ''
+}
+project.domain.name = {
+    'code': '',
+    'location': '',
+    'form': ''
+}
+project.domain.name.code = ''
+```
+
+## Files and Folders as Task
+
+Data       | Title                  | Depth
+-----------|------------------------|--------
+executable | Function               | 0
+folders    | Project                | 1
+folder     | Assignment             | 2
+file       | Task / Object          | 3
+head       | Note                   | 3
+block      | Step / Variable        | 3
+line       | Instruction / Function | 3
+
+### Example
+
+Object            |  Type
+------------------|----------------
+card-match/       |  FUNCTION
+html/             |  PROJECT
+index.html        |  TASK   
+css/              |  PROJECT
+style.css         |  TASK
+js/               |  PROJECT
+app.js            |  TASK
+flashcards/       |  ASSIGNMENT       
+deal.js           |  TASK
+cards.js          |  TASK
+configuration.js  |  TASK
+ts/               |  PROJECT
+main.ts           |  TASK
+convert/          |  ASSIGNMENT
+split.ts          |  TASK
+process.ts        |  TASK
+card-slide/       |  PROJECT
+
+* card-match/
+  * html/              
+    * index.html          
+  * css/               
+    * style.css        
+  * js/                
+    * app.js           
+    * flashcards/        
+      * deal.js        
+      * cards.js       
+    * configuration.js 
+  * ts/                
+    * main.ts          
+      * convert/       
+        * split.ts     
+        * process.ts   
+  * card-slide/        
+
+### Common File Extensions
+
+Type        | Purpose
+------------|--------------------------------------
+.config     | Configuration
+.log        | Log
+.backup     | Backup
+.tmp        | Temporary
+.(language) | Code
