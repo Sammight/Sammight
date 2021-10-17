@@ -140,3 +140,4 @@ status(commit message)
 ```
 
 [abakasam-052021-change.log](https://github.com/Sammight/Sammight/files/7148269/abakasam-052021-change.log)
+[(simple)abakasam-102021-change.log](https://github.com/Sammight/Sammight/files/7360621/simple.abakasam-102021-change.log)
