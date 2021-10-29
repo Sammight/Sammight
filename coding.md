@@ -1,9 +1,10 @@
 # Documentation
 
-`(markdowns) > mediafire > codeproject > wikidot > msdn`
+`[markdowns](https://sammight.github.io/Sammight/source) > mediafire > codeproject > wikidot > msdn`
 
 Use           | Service
 --------------|-------------
+markdowns     | (Optional Markdowns)
 filehost      | MediaFire
 tutorials     | CodeProject
 forum         | Microsoft Developer Network
@@ -22,6 +23,8 @@ site  | Github Pages
 host  | Filehippo
 
 ## Environments 
+
+`office > development > test > production`
 
 Stage       | Server
 ------------|-------------
