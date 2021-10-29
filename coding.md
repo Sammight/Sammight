@@ -24,6 +24,8 @@ host  | Filehippo
 
 ## Environments 
 
+### Web Application
+
 `office > development > test > production`
 
 Stage       | Server
