@@ -1,6 +1,6 @@
 # Documentation
 
-`markdowns > mediafire > codeproject > wikidot > msdn`
+`markdowns > filehost > tutorials > wiki > msdn`
 
 Use           | Service
 --------------|-------------
@@ -13,13 +13,13 @@ webhost       | GoDaddy
 
 # Software
 
-`stackshare > github pages (docusaurus) > filehippo`
+`stack > site > host`
 
 Use   | Service
 ------|-------------
 stack | Stackshare
 store | Codecanyon
-site  | Github Pages
+site  | Github Pages (Docusaurus)
 host  | Filehippo
 
 ## Environments 
@@ -37,7 +37,7 @@ production  | Heroku
 
 # Storage
 
-`onedrive > github > nosql / sql > stripe`
+`onedrive > github > programming > information > stripe`
 
 Use           | Service
 --------------|-----------
@@ -84,7 +84,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-`codetree > github issues > (spreadsheet)`
+`project > log > items
 
 Use        | Service
 -----------|--------------
@@ -93,8 +93,6 @@ software   | Stackshare
 function   | Asana
 project    | Codetree
 log        | Github Issues
-items      | Stockpile
-
-[Siban Inventory.xlsx](https://github.com/Sammight/Sammight/files/7348613/Siban.Inventory.xlsx)
+items      | Stockpile / [Siban Inventory.xlsx](https://github.com/Sammight/Sammight/files/7348613/Siban.Inventory.xlsx)
 
 ![0210918_113814](https://user-images.githubusercontent.com/58202540/133896183-ef512fca-c334-4f8b-9903-2830f34c30af.jpg)
