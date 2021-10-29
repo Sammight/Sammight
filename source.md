@@ -157,7 +157,7 @@ variable(Letter, Number) | firstA          | placeholder variable
 * Did not chagne environment variable naming
 * Placeholder variable for a parameter to argument
 
-## No Abbreviations and Object (if possible)
+## No Abbreviations (if possible)
 
 ```
 1 Variable
