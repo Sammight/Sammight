@@ -84,7 +84,7 @@ vx         | sdk       | virus writings
 
 # Task
 
-`project > log > items
+`project > log > items`
 
 Use        | Service
 -----------|--------------
