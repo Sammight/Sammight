@@ -1,12 +1,10 @@
 # Documentation
 
-[Code](https://sammight.github.io/Sammight/source)
-
-`[Code](https://sammight.github.io/Sammight/source) > mediafire > codeproject > wikidot > msdn`
+`markdowns > mediafire > codeproject > wikidot > msdn`
 
 Use           | Service
 --------------|-------------
-markdowns     | (Optional Markdowns)
+markdowns     | [Optional Markdowns](https://sammight.github.io/Sammight/source)
 filehost      | MediaFire
 tutorials     | CodeProject
 forum         | Microsoft Developer Network
