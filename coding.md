@@ -4,7 +4,7 @@
 
 Use           | Service
 --------------|-------------
-markdowns     | [Optional Markdowns](https://sammight.github.io/Sammight/source)
+markdowns     | [Optional Markdowns](https://github.com/Sammight/Sammight/blob/gh-pages/source.md#optional-markdownse)
 filehost      | MediaFire
 tutorials     | CodeProject
 forum         | Microsoft Developer Network
