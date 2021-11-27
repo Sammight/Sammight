@@ -56,6 +56,16 @@ LICENSE   | What rights
 STANDARDS | Specific coding rules
 NEWS      | Release history and top five features
 
+### Start Issue with Label and Milestone
+
+Type     | Purpose
+---------|--------------------------------------------------
+Request  | Thought about
+Pending  | No milestone
+Progress | Someone assigned
+Testing  | Third party working on
+Done     | Completed
+
 ## Development Comment
 
 Type    | Purpose
