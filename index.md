@@ -2,13 +2,13 @@
 - [Tool](https://sammight.github.io/Sammight/coding)
 - [Code](https://sammight.github.io/Sammight/source)
 
-+ Meetings Document
+# Meetings Document
 
 Asail | Siban | Aquaogen
 ------|-------|---------
 Game Design Document (Strategy Guide), Software Requirements Specification, Software Design Description, Configuration Management Plan, Software Integration Test Plan, Software System Test Plan, Software Project Test Plan, Software Component Test Plan, Software Configuration Management Plan, SmartDraw UML, Configuration Plan, User Guide | Programming Meeting, Progress Report, Project Portfolio (T, S, R) | 
 
-+ Track
+# Track
 
 Developer Comment | Type | Application | Asail | Siban | Aquaogen
 ------------------|------|-------------|-------|-------|---------
@@ -25,7 +25,7 @@ TEST | Automated Testing | Saucelabs | | | x
 BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 ! | ? | Helix | x | | |
 
-+ Document
+# Document
 
 Event | Service
 ------|--------
