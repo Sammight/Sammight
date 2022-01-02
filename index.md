@@ -12,18 +12,18 @@ Game Design Document (Strategy Guide), Software Requirements Specification, Soft
 
 Developer Comment | Type | Application | Asail | Siban | Aquaogen
 ------------------|------|-------------|-------|-------|---------
-! | Change Log | Framapad | | x | 
-! | Inventory | Stockpile | | x | x
+? | Change Log | Framapad | | x | 
+? | Inventory | Stockpile | | x | x
 TODO / IMPROVE / REDO | Project Management | Codetree | | x | x
-! | Time Management | Everhour | x | |
-! | Task Management | Asana | | x |
-REVIEW | ? | Wikidot | x | x | x
-! | Meetings | Microsoft Teams |  | x | 
+? | Time Management | Everhour | x | |
+? | Task Management | Asana | | x |
+REVIEW | Wiki | Wikidot | x | x | x
+? | Meetings | Microsoft Teams |  | x | 
 BUILD | Continous Integration | Jenkins | x | |
-! | Distributed Version Control | GitHub | x | x | x
+? | Distributed Version Control | GitHub | x | x | x
 TEST | Automated Testing | Saucelabs | | | x  
 BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
-! | ? | Helix | x | | |
+? | Version Control | Helix | x | | |
 
 # Document
 
