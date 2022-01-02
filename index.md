@@ -2,7 +2,7 @@
 - [Tool](https://sammight.github.io/Sammight/coding)
 - [Code](https://sammight.github.io/Sammight/source)
 
-# Meetings Document
+# Documents for Meetings
 
 Asail | Siban | Aquaogen
 ------|-------|---------
