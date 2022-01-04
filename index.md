@@ -2,6 +2,8 @@
 - [Tool](https://sammight.github.io/Sammight/coding)
 - [Code](https://sammight.github.io/Sammight/source)
 
+ALWAYS MOVE SLOW
+
 # Documents for Meetings
 
 Asail | Siban | Aquaogen
