@@ -27,6 +27,32 @@ TEST | Automated Testing | Saucelabs | | | x
 BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 ? | Version Control | Helix | x | | |
 
+# Templates
+
+Name                       | Format
+---------------------------|--------
+Siban Technology Assignment| DOCX
+Siban Work for Hire        | DOCX
+Siban Privacy Policy       | DOCX
+Siban Nondisclousure       | DOCX
+Siban License (MIT)        | DOCX
+---------------------------|--------
+Siban Header               | DOCX
+Siban Identification       | DOCX
+Siban Identification       | XSLX
+Siban Header               | PPTX
+Siban Content              | PPTX
+Siban Identification       | PPTX
+Siban Title                | PPTX
+Siban Closing              | PPTX
+---------------------------|-------
+Siban Documentation | https://sammight.github.io/Sammight
+Siban Environments  | https://sammight.github.io/Sammight
+Siban Storage       | https://sammight.github.io/Sammight
+Siban Language      | https://sammight.github.io/Sammight
+Siban Task          | http://siban.wikidot.com/report
+Siban Source        | https://github.com/abakasam
+
 # Document
 
 Event | Service
