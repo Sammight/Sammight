@@ -1,8 +1,12 @@
+
+
 - [Home](https://sammight.github.io/Sammight/index)
 - [Tool](https://sammight.github.io/Sammight/coding)
 - [Code](https://sammight.github.io/Sammight/source)
 
 ALWAYS MOVE SLOW WHEN CODING
+
+![IMG_20220107_105031__01](https://user-images.githubusercontent.com/58202540/148578048-45b8229e-8a9e-4d2b-8fbb-d188edfd52a0.jpg)
 
 # Documents for Meetings
 
