@@ -12,7 +12,7 @@ ALWAYS MOVE SLOW WHEN CODING
 
 Asail | Siban | Aquaogen
 ------|-------|---------
-Game Design Document (Strategy Guide), Software Requirements Specification, Software Design Description, Configuration Management Plan, Software Integration Test Plan, Software System Test Plan, Software Project Test Plan, Software Component Test Plan, Software Configuration Management Plan, SmartDraw UML, Configuration Plan, User Guide | Programming Meeting, Progress Report, Project Portfolio (T, S, R) | 
+Game Design Document (Strategy Guide), Software Requirements Specification, Software Design Description, Configuration Management Plan, Software Integration Test Plan, Software System Test Plan, Software Project Test Plan, Software Component Test Plan, Software Configuration Management Plan, SmartDraw UML, Configuration Plan, User Guide | Programming Meeting, Progress Report, Project Portfolio | 
 
 # Track
 
