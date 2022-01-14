@@ -27,7 +27,7 @@ TEST | Automated Testing | Saucelabs | | | x
 BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 ? | Version Control | Helix | x | | |
 
-# Templates
+## Templates
 
 Name                       | Format
 ---------------------------|--------
