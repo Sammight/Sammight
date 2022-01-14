@@ -31,20 +31,7 @@ BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 
 Name                       | Format
 ---------------------------|--------
-Siban Technology Assignment| DOCX
-Siban Work for Hire        | DOCX
-Siban Privacy Policy       | DOCX
-Siban Nondisclousure       | DOCX
-Siban License (MIT)        | DOCX
----------------------------|--------
-Siban Header               | DOCX
-Siban Identification       | DOCX
-Siban Identification       | XSLX
-Siban Header               | PPTX
-Siban Content              | PPTX
-Siban Identification       | PPTX
-Siban Title                | PPTX
-Siban Closing              | PPTX
+Siban (Documents)          | http://siban.wikidot.com/policy
 ---------------------------|-------
 Siban Documentation | https://sammight.github.io/Sammight
 Siban Environments  | https://sammight.github.io/Sammight
