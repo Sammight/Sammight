@@ -29,16 +29,15 @@ BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 
 ## Templates
 
-Name                       | Format
----------------------------|--------
-Siban (Documents)          | http://siban.wikidot.com/policy
----------------------------|-------
+Name                | Format
+--------------------|
+Siban (Documents)   | http://siban.wikidot.com/policy
 Siban Documentation | https://sammight.github.io/Sammight
-Siban Environments  | https://sammight.github.io/Sammight
+Siban Environments  | https://sammight.github.io/Sammight/coding
 Siban Storage       | https://sammight.github.io/Sammight
-Siban Language      | https://sammight.github.io/Sammight
+Siban Language      | https://sammight.github.io/Sammight/source
 Siban Task          | http://siban.wikidot.com/report
-Siban Source        | https://github.com/abakasam
+Siban Source        | https://github.com/MicrosoftSiban
 
 # Document
 
