@@ -12,6 +12,7 @@ ALWAYS MOVE SLOW WHEN CODING (sites, rules, workflow)
 # Track
 
 ## Stack
+
 Developer Comment | Type | Application | Asail | Siban | Aquaogen
 ------------------|------|-------------|-------|-------|---------
 ? | Change Log | Framapad | | x | 
@@ -30,7 +31,7 @@ BUG / MEMORY / LEGACY | Bug Tracker | Bugzilla | x | |
 ## Templates
 
 Name                | Format
---------------------|
+--------------------|--------
 Siban (Documents)   | http://siban.wikidot.com/policy
 Siban Documentation | https://sammight.github.io/Sammight
 Siban Environments  | https://sammight.github.io/Sammight/coding
