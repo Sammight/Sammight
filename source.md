@@ -1,6 +1,6 @@
 # Source
 
-## Know what development comment your using while coding
+## Know what development comment your using while working
 
 ## Only Use Comments for Development
 
